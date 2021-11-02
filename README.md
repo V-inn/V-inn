@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @V-inn
+- 👋 Hi, I’m Vin
 - 🌱 I’m currently learning javascript, html and php
 
 <!---
