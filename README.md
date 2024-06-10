@@ -3,9 +3,7 @@
 - Computer engineering enthusiast
 - I'm currently doing an internship, at my townhall in the secretary of education
 
-The languages i'm familiarized with are JAVA, Javascript, HTML and Css, and the Arduino varian of C++
-
-I normally don't have a lot of projects because i've got a severe lack of creativity, and it's probably never gonna be anything usefull, sorry
+The languages i'm familiarized with are JAVA, Javascript, HTML and Css, and the Arduino variant of C++
 
 <!---
 V-inn/V-inn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
