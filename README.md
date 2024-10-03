@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m Vinicius, i'm a 17 year old who likes computer stuff!
+- 👋 Hi, I’m Vinicius, i'm a 18 year old who likes computer stuff!
 - Brazillian
 - Computer engineering enthusiast
 - I'm currently doing an internship, at my townhall in the secretary of education
